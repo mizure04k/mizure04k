@@ -20,12 +20,8 @@
     </a>
       <a href="mailto:ruan.matheusgnet@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-    ![Cobrinha que come commits]https://github.com/mizure04k/snake.svg)
+  
 
     
                                                                       
   </div>
-    
-    
-  
-  

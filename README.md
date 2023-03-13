@@ -7,8 +7,8 @@
 
 <div> 
   <a href="https://github.com/mizure04k">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=mizure04k&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizure04k&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=mizure04k&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizure04k&layout=compact&langs_count=16&theme=synthwave"/>
    
 
 

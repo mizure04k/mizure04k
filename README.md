@@ -1,7 +1,7 @@
 ### Olá! Eu sou Ruan Matheus
 
 - 🔭 Não estou Trabalhando ainda
-- 🌱 Estudando Javascript,typescript 
+- 🌱 Estudando Javascript e Typescript 
 - 👯 contate-me no email: ruan.matheusgnet@gmail.com
 - 🤔 pronouns: ele/dele 
 
